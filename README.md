@@ -46,22 +46,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ---
 
-
-## 🖥️ Screenshots
-
-<p align="center">
-	<img src="https://user-images.githubusercontent.com/placeholder/circularfashion-home.png" alt="Circular Fashion Home" width="800" />
-</p>
-
-<!-- Example: Replace the above src with your actual image URL or local path if needed -->
-
-<details>
-	<summary>Example UI</summary>
-	<img src="https://user-images.githubusercontent.com/placeholder/circularfashion-demo.gif" alt="Demo GIF" />
-</details>
-
----
-
 ## 🧩 Technology Stack
 
 | Category         | Technologies                        |
