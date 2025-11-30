@@ -1,0 +1,18 @@
+{
+  "title": "Community Events & Workshops",
+  "description": "Join events, webinars, and workshops focused on sustainable fashion.",
+  "events": [
+    {
+      "name": "Circular Fashion Webinar",
+      "date": "March 15, 2025",
+      "location": "Online",
+      "description": "Learn how AI helps build circular supply chains."
+    },
+    {
+      "name": "Sustainable Materials Hackathon",
+      "date": "April 05, 2025",
+      "location": "Hybrid",
+      "description": "Collaborate on tools for eco-conscious design."
+    }
+  ]
+}

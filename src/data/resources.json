@@ -1,0 +1,59 @@
+{
+  "title": "Curated Resources for Circular Fashion",
+  "description": "A collection of trusted certifications, initiatives, and educational platforms to support ethical, sustainable, and circular fashion.",
+  "sections": [
+    {
+      "heading": "Certifications & Standards",
+      "items": [
+        {
+          "name": "GOTS (Global Organic Textile Standard)",
+          "description": "Ensures the organic status of textiles from raw material harvesting through environmentally and socially responsible manufacturing.",
+          "linkText": "Visit GOTS →",
+          "url": "https://global-standard.org/"
+        },
+        {
+          "name": "Fair Trade Certified",
+          "description": "Promotes ethical sourcing, fair wages, safe working conditions, and environmental sustainability across global supply chains.",
+          "linkText": "Visit Fair Trade →",
+          "url": "https://www.fairtradecertified.org/"
+        }
+      ]
+    },
+
+    {
+      "heading": "Recycling & Upcycling Initiatives",
+      "items": [
+        {
+          "name": "Textile Exchange",
+          "description": "Provides data-driven insights, benchmarks, and tools to accelerate sustainable fiber and material adoption.",
+          "linkText": "Visit Textile Exchange →",
+          "url": "https://textileexchange.org/"
+        },
+        {
+          "name": "Local Donation & Recycling Hubs",
+          "description": "Learn how to responsibly dispose of or donate textiles through verified local or regional recycling programs.",
+          "linkText": "Find Local Programs →",
+          "url": "#"
+        }
+      ]
+    },
+
+    {
+      "heading": "Educational Resources",
+      "items": [
+        {
+          "name": "Ellen MacArthur Foundation",
+          "description": "A world-leading authority on the circular economy, providing research, frameworks, and practical case studies.",
+          "linkText": "Learn About Circular Economy →",
+          "url": "https://ellenmacarthurfoundation.org/"
+        },
+        {
+          "name": "Sustainable Fashion News & Blogs",
+          "description": "Articles on sustainable dyeing innovations, material science advancements, ethical production, and circular business models.",
+          "linkText": "Read Latest Articles →",
+          "url": "#"
+        }
+      ]
+    }
+  ]
+}
