@@ -21,6 +21,9 @@ const Navbar = () => {
             <Link to="/profile" className="hover:text-emerald-200 transition">Profile</Link>
             <Link to="/feedback" className="hover:text-emerald-200 transition">Feedback</Link>
             <Link to="/about" className="hover:text-emerald-200 transition">About Us</Link>
+            <Link to="/blogs" className="hover:text-emerald-200 transition">Blogs</Link>
+            <Link to="/events" className="hover:text-emerald-200 transition">Events</Link>
+            <Link to="/resources" className="hover:text-emerald-200 transition">Resources</Link>
           </div>
 
           {/* Mobile Menu Button */}

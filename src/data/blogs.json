@@ -1,0 +1,45 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Ellen MacArthur Foundation – Circular Fashion",
+      "description": "Leading insights on circular economy principles applied to the fashion industry.",
+      "url": "https://ellenmacarthurfoundation.org/topics/fashion/overview",
+      "tag": "Circular Economy",
+      "source": "Ellen MacArthur Foundation"
+    },
+    {
+      "id": "2",
+      "title": "Sustainable Fashion – Vogue Business",
+      "description": "Industry news, innovations, and trends around sustainable fashion and luxury.",
+      "url": "https://www.voguebusiness.com/sustainability",
+      "tag": "Industry News",
+      "source": "Vogue Business"
+    },
+    {
+      "id": "3",
+      "title": "Fashion Revolution Blog",
+      "description": "Advocates for ethical fashion, transparency, and fair wages across supply chains.",
+      "url": "https://www.fashionrevolution.org/blog/",
+      "tag": "Ethical Fashion",
+      "source": "Fashion Revolution"
+    },
+    {
+      "id": "4",
+      "title": "Good On You",
+      "description": "Trusted sustainability ratings for fashion brands and educational articles.",
+      "url": "https://goodonyou.eco/",
+      "tag": "Brand Ethics",
+      "source": "Good On You"
+    },
+    {
+      "id": "5",
+      "title": "The Business of Fashion – Sustainability",
+      "description": "In-depth analysis on sustainability challenges and solutions in fashion.",
+      "url": "https://www.businessoffashion.com/sustainability/",
+      "tag": "Research & Analysis",
+      "source": "Business of Fashion"
+    }
+  ]
+}
+
