@@ -1,0 +1,170 @@
+[
+  {
+    "term": "Biodegradable",
+    "definition": "Materials that naturally break down into non-toxic components via biological activity (microbes, fungi). Useful for reducing long-term landfill waste when biodegradation conditions exist.",
+    "category": "Materials",
+    "icon": "Leaf",
+    "learnMore": "https://en.wikipedia.org/wiki/Biodegradability"
+  },
+  {
+    "term": "Life-Cycle Assessment (LCA)",
+    "definition": "A systematic technique to measure environmental impacts associated with all the stages of a product's life — from raw material extraction through materials processing, manufacture, distribution, use, repair and maintenance, and disposal or recycling.",
+    "category": "Methods",
+    "icon": "Clipboard",
+    "learnMore": "https://en.wikipedia.org/wiki/Life-cycle_assessment"
+  },
+  {
+    "term": "Closed-loop Supply Chain",
+    "definition": "A supply chain that designs for reuse, repair, refurbishment and recycling to keep materials in use and reduce waste.",
+    "category": "Processes",
+    "icon": "Repeat",
+    "learnMore": "https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview"
+  },
+  {
+    "term": "Upcycling",
+    "definition": "The creative reuse of waste materials into products of higher value — e.g., using textile offcuts to create new fashion products with aesthetic or functional upgrades.",
+    "category": "Processes",
+    "icon": "PackageOpen",
+    "learnMore": "https://en.wikipedia.org/wiki/Upcycling"
+  },
+  {
+    "term": "Organic Cotton",
+    "definition": "Cotton grown without synthetic pesticides and fertilizers; certified varieties meet standards such as GOTS which also cover processing and social criteria.",
+    "category": "Materials",
+    "icon": "Seed",
+    "learnMore": "https://globalstandard.org"
+  },
+  {
+    "term": "GOTS (Global Organic Textile Standard)",
+    "definition": "A leading standard for organic textiles that covers environmental and social criteria across processing, manufacturing, packaging and labeling.",
+    "category": "Certifications",
+    "icon": "Award",
+    "learnMore": "https://global-standard.org"
+  },
+  {
+    "term": "OEKO-TEX",
+    "definition": "A group of certificates focused on harmful substances in textiles. OEKO-TEX Standard 100 certifies products tested for substances harmful to human health.",
+    "category": "Certifications",
+    "icon": "Shield",
+    "learnMore": "https://www.oeko-tex.com"
+  },
+  {
+    "term": "Mechanical Recycling",
+    "definition": "Reprocessing of textile waste using mechanical means (shredding, re-spinning). Often degrades fiber quality; works best for certain fibers like cotton blends or polyester.",
+    "category": "Processes",
+    "icon": "RefreshCw",
+    "learnMore": "https://textileexchange.org"
+  },
+  {
+    "term": "Chemical Recycling",
+    "definition": "Converting polymers back into monomers or feedstock via chemical processes — potential to restore fiber quality and process mixed waste streams, though energy & cost intensive.",
+    "category": "Processes",
+    "icon": "Chemical",
+    "learnMore": "https://en.wikipedia.org/wiki/Chemical_recycling"
+  },
+  {
+    "term": "Cradle-to-Cradle",
+    "definition": "Design approach where materials are kept in continuous cycles (technical or biological), enabling perpetual reuse without waste.",
+    "category": "Design Principles",
+    "icon": "RefreshCcw",
+    "learnMore": "https://en.wikipedia.org/wiki/Cradle-to-cradle_design"
+  },
+  {
+    "term": "Circularity",
+    "definition": "The degree to which a product or system enables reuse, remanufacture, recycling or biological return — striving to keep materials and products in use.",
+    "category": "Concepts",
+    "icon": "Repeat2",
+    "learnMore": "https://ellenmacarthurfoundation.org/topics/circular-economy-introduction/overview"
+  },
+  {
+    "term": "Microfiber Pollution",
+    "definition": "Small synthetic fibers released from garments during washing that can end up in waterways and marine life; mitigation includes improved filtration, material choices and washing technologies.",
+    "category": "Impact",
+    "icon": "Droplet",
+    "learnMore": "https://www.nature.com/articles/s41598-018-23355-6"
+  },
+  {
+    "term": "Take-back Program",
+    "definition": "A brand initiative to collect used garments from customers for reuse, repair, or recycling.",
+    "category": "Programs",
+    "icon": "Inbox",
+    "learnMore": "https://ellenmacarthurfoundation.org"
+  },
+  {
+    "term": "Transparency",
+    "definition": "The practice of openly reporting sourcing, processing, and supply chain information — essential for traceability and consumer trust.",
+    "category": "Principles",
+    "icon": "Eye",
+    "learnMore": "https://transparency.org"
+  },
+  {
+    "term": "Low Impact Dyeing",
+    "definition": "Dye processes that minimize water usage, energy consumption and toxic chemical discharge — examples include cold dyeing, digital printing, and dope-dyeing.",
+    "category": "Processes",
+    "icon": "DropletOff",
+    "learnMore": "https://textileexchange.org"
+  },
+  {
+    "term": "Recycled Polyester (rPET)",
+    "definition": "Polyester derived from recycled PET bottles or textile waste; reduces virgin feedstock demand but recycling quality and microplastic concerns remain.",
+    "category": "Materials",
+    "icon": "Recycling",
+    "learnMore": "https://en.wikipedia.org/wiki/Recycled_polyethylene_terephthalate"
+  },
+  {
+    "term": "Material Passport",
+    "definition": "Digital record storing a product’s material composition and lifecycle data to enable reuse, repair and recycling downstream.",
+    "category": "Digital Tools",
+    "icon": "FileText",
+    "learnMore": "https://ellenmacarthurfoundation.org"
+  },
+  {
+    "term": "Extended Producer Responsibility (EPR)",
+    "definition": "Policy approach making producers responsible for end-of-life management of products — incentivises design for circularity.",
+    "category": "Policy",
+    "icon": "Scale",
+    "learnMore": "https://ec.europa.eu/environment"
+  },
+  {
+    "term": "Zero Waste Pattern Cutting",
+    "definition": "Design technique that minimizes fabric waste when cutting garment patterns by creative paneling and layout.",
+    "category": "Design Techniques",
+    "icon": "Scissors",
+    "learnMore": "https://zero-waste-fashion.github.io"
+  },
+  {
+    "term": "Social Compliance",
+    "definition": "Ensuring fair labor practices, safe working conditions and living wages in textile supply chains.",
+    "category": "Principles",
+    "icon": "Users",
+    "learnMore": "https://www.fairtrade.net"
+  },
+  {
+    "term": "Durability",
+    "definition": "Measure of how long a garment lasts in regular use — designing for durability reduces the need for replacements and overall environmental cost.",
+    "category": "Design Principles",
+    "icon": "HardDrive",
+    "learnMore": "https://ellenmacarthurfoundation.org"
+  },
+  {
+    "term": "Compostable Textiles",
+    "definition": "Materials that biodegrade safely under industrial or home composting conditions — requires correct certification and disposal routes.",
+    "category": "Materials",
+    "icon": "Seedling",
+    "learnMore": "https://en.wikipedia.org/wiki/Compostable_materials"
+  },
+  {
+    "term": "Closed-loop Recycling",
+    "definition": "Recycling where the recovered material is reused to make the same product, preserving quality (e.g., glass-to-glass). In textiles, fully closed-loop is still emerging.",
+    "category": "Processes",
+    "icon": "CornerUpLeft",
+    "learnMore": "https://textileexchange.org"
+  },
+  {
+    "term": "Water Footprint",
+    "definition": "Amount of water used in the lifecycle of a product — includes irrigation, processing, dyeing and finishing stages.",
+    "category": "Impact",
+    "icon": "Water",
+    "learnMore": "https://waterfootprint.org"
+  }
+]

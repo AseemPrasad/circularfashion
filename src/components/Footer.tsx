@@ -18,6 +18,8 @@ const Footer = () => {
               <li><a href="/feedback" className="hover:text-emerald-200 transition">Feedback</a></li>
               <li><a href="/privacy-policy" className="hover:text-emerald-200 transition">Privacy Policy</a></li>
               <li><a href="/contribute">Contribute Content</a></li>
+              <li><a href="/contributors" className="hover:text-emerald-200 transition">Contributors (WoCS)</a></li>
+
             </ul>
           </div>
           <div>
