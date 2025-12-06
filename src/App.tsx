@@ -12,6 +12,9 @@ import Blogs from "./pages/Blogs";
 import Events from "./pages/Events";
 import Resources from "./pages/Resources";
 import Contribute from "./pages/Contribute";
+import Contributors from './pages/Contributors';
+import GlossaryPage from "./components/Glossary/GlossaryPage";
+import MaterialsDashboard from './pages/MaterialsDashboard';
 
 function App() {
   return (
@@ -30,6 +33,9 @@ function App() {
             <Route path="/events" element={<Events />} />
             <Route path="/resources" element={<Resources />} />
             <Route path="/contribute" element={<Contribute />} />
+            <Route path="/contributors" element={<Contributors />} />
+            <Route path="/glossary" element={<GlossaryPage />} />
+            <Route path="/materials/dashboard" element={<MaterialsDashboard />} />
           </Routes>
         </main>
         <Footer />

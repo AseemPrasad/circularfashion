@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Aseem Prasad",
+    "role": "Project Maintainer",
+    "contributions": "Architecture, UI, Sustainability Modules",
+    "github": "https://github.com/AseemPrasad",
+    "year": "WoCS 2025"
+  },
+  {
+    "name": "Kanan Mehta",
+    "role": "Frontend Contributor",
+    "contributions": "Blogs Page, Resources Page",
+    "github": "https://github.com/kananmmehta",
+    "year": "WoCS 2025"
+  },
+  {
+    "name": "Dhanshri Wanjari",
+    "role": "Document Update Contributor",
+    "contributions": "ReadMe.md Updates",
+    "github": "https://github.com/dhanshrii2006",
+    "year": "WoCS 2025"
+  }
+]

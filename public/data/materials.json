@@ -1,0 +1,134 @@
+[
+  {
+    "id": "cotton",
+    "name": "Cotton (conventional)",
+    "co2_kg_per_kg": 2.1,
+    "water_l_per_kg": 10000,
+    "energy_mj_per_kg": 55,
+    "recyclability_pct": 10,
+    "durability_wears": 100,
+    "description": "Conventional cotton grown using typical farming practices. High water usage; moderate CO2.",
+    "notes": "High water footprint; lower recyclability compared to synthetics."
+  },
+  {
+    "id": "organic_cotton",
+    "name": "Organic Cotton",
+    "co2_kg_per_kg": 1.7,
+    "water_l_per_kg": 8000,
+    "energy_mj_per_kg": 48,
+    "recyclability_pct": 15,
+    "durability_wears": 120,
+    "description": "Cotton grown with organic farming methods. Lower chemical inputs.",
+    "notes": "Better for soil & biodiversity; slightly lower yields."
+  },
+  {
+    "id": "recycled_cotton",
+    "name": "Recycled Cotton",
+    "co2_kg_per_kg": 1.3,
+    "water_l_per_kg": 2000,
+    "energy_mj_per_kg": 30,
+    "recyclability_pct": 60,
+    "durability_wears": 90,
+    "description": "Cotton produced from textile waste. Lower water & CO2 footprints.",
+    "notes": "Quality depends on feedstock; blending often required."
+  },
+  {
+    "id": "polyester",
+    "name": "Polyester (virgin)",
+    "co2_kg_per_kg": 5.5,
+    "water_l_per_kg": 150,
+    "energy_mj_per_kg": 90,
+    "recyclability_pct": 20,
+    "durability_wears": 200,
+    "description": "Synthetic fiber made from fossil fuels. High CO2 and energy consumption.",
+    "notes": "Durable and cheap; microplastics and fossil origin are concerns."
+  },
+  {
+    "id": "rpet",
+    "name": "Recycled Polyester (rPET)",
+    "co2_kg_per_kg": 1.8,
+    "water_l_per_kg": 120,
+    "energy_mj_per_kg": 40,
+    "recyclability_pct": 70,
+    "durability_wears": 200,
+    "description": "Polyester made from recycled PET bottles. Much lower CO2 than virgin polyester.",
+    "notes": "Good circular potential; still releases microfibers."
+  },
+  {
+    "id": "hemp",
+    "name": "Hemp",
+    "co2_kg_per_kg": 0.6,
+    "water_l_per_kg": 2500,
+    "energy_mj_per_kg": 30,
+    "recyclability_pct": 50,
+    "durability_wears": 180,
+    "description": "Low-input fiber with strong durability and lower environmental impacts.",
+    "notes": "Excellent for sustainable textiles where legal/processing supply exists."
+  },
+  {
+    "id": "linen",
+    "name": "Linen (Flax)",
+    "co2_kg_per_kg": 0.9,
+    "water_l_per_kg": 2500,
+    "energy_mj_per_kg": 28,
+    "recyclability_pct": 45,
+    "durability_wears": 150,
+    "description": "Fiber from flax plant; low water and energy inputs per kg.",
+    "notes": "Great biodegradability and durability; often premium price."
+  },
+  {
+    "id": "wool",
+    "name": "Wool",
+    "co2_kg_per_kg": 22.5,
+    "water_l_per_kg": 4000,
+    "energy_mj_per_kg": 170,
+    "recyclability_pct": 50,
+    "durability_wears": 300,
+    "description": "Animal fiber with high CO2 due to livestock emissions, but very durable and warm.",
+    "notes": "Consider animal welfare and land-use impacts."
+  },
+  {
+    "id": "tencel",
+    "name": "Tencel (Lyocell)",
+    "co2_kg_per_kg": 0.8,
+    "water_l_per_kg": 600,
+    "energy_mj_per_kg": 35,
+    "recyclability_pct": 40,
+    "durability_wears": 140,
+    "description": "Regenerated cellulose fiber with relatively low impacts and closed-loop production.",
+    "notes": "Good substitution for viscose with better processing footprint."
+  },
+  {
+    "id": "bamboo_viscose",
+    "name": "Bamboo Viscose",
+    "co2_kg_per_kg": 1.2,
+    "water_l_per_kg": 900,
+    "energy_mj_per_kg": 60,
+    "recyclability_pct": 25,
+    "durability_wears": 80,
+    "description": "Viscose regenerated from bamboo; processing varies and impacts can be high.",
+    "notes": "Look for closed-loop process claims (e.g., Lenzing)."
+  },
+  {
+    "id": "nylon",
+    "name": "Nylon (virgin)",
+    "co2_kg_per_kg": 12.2,
+    "water_l_per_kg": 100,
+    "energy_mj_per_kg": 150,
+    "recyclability_pct": 15,
+    "durability_wears": 220,
+    "description": "Energy intensive synthetic fiber with high CO2 and energy footprints.",
+    "notes": "Often used where high strength/elasticity is required."
+  },
+  {
+    "id": "recycled_nylon",
+    "name": "Recycled Nylon",
+    "co2_kg_per_kg": 3.9,
+    "water_l_per_kg": 90,
+    "energy_mj_per_kg": 50,
+    "recyclability_pct": 60,
+    "durability_wears": 220,
+    "description": "Nylon produced from post-consumer/industrial waste. Lower CO2 vs virgin.",
+    "notes": "Good circular option where available."
+  }
+]
